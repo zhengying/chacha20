@@ -20,7 +20,7 @@ package hardware
 import (
 	"golang.org/x/sys/cpu"
 
-	"gitlab.com/yawning/chacha20.git/internal/api"
+	"github.com/zhengying/chacha20/internal/api"
 )
 
 //go:noescape
